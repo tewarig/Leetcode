@@ -7,6 +7,5 @@ This repo contains shared solutions for understanding different techniques to so
 <br>
 <a href"https://leetcode.com/problems/greatest-common-divisor-of-strings/">greatest-common-divisor-of-strings</a>
 <br>
-<a href""> </a>
 
 
