@@ -1,3 +1,4 @@
+[Discussion Post (created on 2/7/2021 at 10:47)](https://leetcode.com/problems/shuffle-string/discuss/1377860/Solution-using-Prirority-Queue)  
 <h2>1528. Shuffle String</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>&nbsp;and an integer array <code>indices</code> of the <strong>same length</strong>.</p>
 
 <p>The string <code>s</code> will be shuffled such that the character at the <code>i<sup>th</sup></code> position moves to&nbsp;<code>indices[i]</code> in the shuffled string.</p>
